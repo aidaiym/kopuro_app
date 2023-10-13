@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>484032885103-t7equ4r2o3s98rjrm3apv8llpcd9lh5b.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.484032885103-t7equ4r2o3s98rjrm3apv8llpcd9lh5b</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>484032885103-t54u521ecae2fg1s5oaeshat4lalmjbt.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDwJaVgUD5rrjJF4mzPiWmTzdMeBQ0JKQ8</string>
+	<key>GCM_SENDER_ID</key>
+	<string>484032885103</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.jafton.fursa</string>
+	<key>PROJECT_ID</key>
+	<string>fursa-c8ab9</string>
+	<key>STORAGE_BUCKET</key>
+	<string>fursa-c8ab9.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:484032885103:ios:22dfce17b05c7da332789a</string>
+</dict>
+</plist>

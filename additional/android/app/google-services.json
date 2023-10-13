@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "484032885103",
+    "project_id": "fursa-c8ab9",
+    "storage_bucket": "fursa-c8ab9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:484032885103:android:9c1011f838ddcef832789a",
+        "android_client_info": {
+          "package_name": "com.jafton.fursa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "484032885103-t54u521ecae2fg1s5oaeshat4lalmjbt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.jafton.fursa",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "484032885103-22totvt0b80n4hbt76lcarst2spuhr5r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA85NnSPEtpd4SeNeDdkgfqj_q8vgrL2Pc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "484032885103-22totvt0b80n4hbt76lcarst2spuhr5r.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "484032885103-t7equ4r2o3s98rjrm3apv8llpcd9lh5b.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.jafton.fursa"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
